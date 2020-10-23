@@ -1,0 +1,9 @@
+A
+a.txt
+b.txt
+c.txt
+espacio
+listing.txt
+man.txt
+test2
+testing
